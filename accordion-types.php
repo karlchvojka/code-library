@@ -15,7 +15,17 @@ $(function() {
   });
   </script>  
 </head>
+<!--
+Reqs for this:
+Wordpress
+jQuery
+jQuery UI
 
+WP-Types plugin:
+https://wp-types.com/home/types-manage-post-types-taxonomy-and-custom-fields/
+
+Types is a very easy to use interface for adding custom fields to any page/template in Wordpress.
+Will go into more detail in the blog post to be noted later. -->
 <body>
  <div id="accordion">
     
